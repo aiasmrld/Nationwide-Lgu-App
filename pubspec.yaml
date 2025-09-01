@@ -1,0 +1,12 @@
+name: lgu_app
+description: A starter Flutter app for LGU citizens.
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
